@@ -2,7 +2,7 @@
 This is a Hall effect based stall sensor and aoa sensor for INAV or other RC planes.
 
 You can use this as either stall sensor / stall horn (toggles on to indicate beginning of stall) or an AoA sensor (reads
-current angle of attack).  For a stall sensor, use the level named stall_sensor-lever-aoa and have it pointed forward.
+current angle of attack).  For a stall sensor, use the lever named stall_sensor-lever-aoa and have it pointed forward.
 Mount it on the bottom of the wing, recessed or flat. The sensing tab should clear the leading edge with just enough
 clearance to move up and down, like a toggle switch. For an AoA sensor, use the flat lever and point it backward so it weathervanes.
 
